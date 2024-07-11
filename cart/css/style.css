@@ -1,0 +1,90 @@
+
+#menuu{
+
+        width: 100%;
+        padding: 50px 10px;
+        margin: 0;
+
+}
+
+#titre{
+	
+    font-size: 3em;
+    font-family: 'Bree Serif', serif;
+    margin: 30px 0 40px 30px;
+    text-shadow: 1px 1px 1px rgba(2, 0, 1.3, .5);
+    letter-spacing: 1px;
+    
+    position: relative;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    text-shadow: 3px 4px white;
+    
+    position: relative;
+    text-transform: uppercase;
+    
+
+    font-family: "Great Vibes", cursive;
+    font-weight: bold;
+     
+      font-style: italic
+}
+
+
+#t:hover{
+  border-style: double ;
+  border-color: white;
+
+
+} 
+
+
+
+span {  
+    letter-spacing: 1px;
+    font-weight: 300;
+    color:red;
+}
+.navbar{
+	background: url(../images/bg2.png) no-repeat 0px 0px;
+    background-size: cover;
+    height:200px;
+}
+#navbarDropdownMenuLink{
+	background-color: transparent;
+	color: white;
+
+}
+#home{
+	color:white;
+}
+#Search{
+	margin-right: 1000px;
+}
+#pannier{
+	background-color: transparent;
+	font-size: 13px;
+	border-color: red;
+	margin-left: 6px;
+}
+#pannier:hover{
+	background-color: #630606;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,9 @@
+music : deezer , spotify
+Streaming: hulu,mycanal ,netflix,crunshyroll,
+sport:beinsports,wwe network
+gaming:fortnite,uplay,rockstar games,origin,minecraft,league of legends,
+media:bangbros,realityking,naughtyamerica
+food:dominos all country ,pizzahut usa
+vpn:zenmate,expressvpn,hidemyass,ipvanish,nordvpn,tunnelbear,vyprvpn
+security:Kaspersky,malwarebyten,avast,mcafee
+education:lynda,grammarly
